@@ -7,4 +7,4 @@ Vervolgens heb ik de code zo geschreven dat de LED-jes rood zijn als er niets ge
 
 De [code](code/neopixelring.ino) is wederom bijgevoegd.
 
-![Neopixel Ring aan het werk](media/rgb-ring-setup.mov)
+![Neopixel Ring aan het werk](https://www.youtube.com/watch?v=p1y6z9ZxNrA&feature=youtu.be)

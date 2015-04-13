@@ -1,11 +1,11 @@
 # Iteratie 8: User testing
 
-![Uitleg testopstelling](media/testopstelling.mov)
+![Uitleg testopstelling](https://www.youtube.com/watch?v=9-RRnoWaeGo&feature=youtu.be)
 ![Deeg](media/deeg.jpg)
 ![Deeg](media/deeg2.jpg)
-![Deeg](media/rgbring.mov)
-![Deeg](media/test.mov)
-![Deeg](media/test-2.mov)
+![Deeg](https://www.youtube.com/watch?v=1WptSYPGbE0&feature=youtu.be)
+![Deeg](https://www.youtube.com/watch?v=xvoAZr4gEHU&feature=youtu.be)
+![Deeg](https://www.youtube.com/watch?v=wqCr1fw8lsA&feature=youtu.be)
 
 Deze iteratie heb ik mijn prototype voorgelegd aan Daan. Daan is 24 en heeft 3 jaar in de keuken gewerkt van een Italiaans restaurant in Amsterdam; Panini. De IR-sensor moest een paar keer afgevuurd worden, om een goed gevoel te krijgen voor de werking van het prototype. Daan had niet veel omkijken naar het prototype, het functioneerde vrij soepel. Toch had hij enkele suggesties;
 
