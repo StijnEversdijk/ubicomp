@@ -6,4 +6,4 @@ Het grootste probleem waar ik tegenaan liep, waren de Volts. Enkel de motor draa
 ## Functies
 Ook mijn code begon steeds rommeliger te worden, zeker als je veel snippets verwijderd, plakt en verplaatst. Daarom besloot ik naar functies te kijken. Dit houdt mijn code opgeruimd in de loop. Ik hoef enkel een functie aan te roepen, wat een heel blok code uitvoert. Deze code kon ik dan weer buiten het zicht kwijt.
 
-Ook [hiervan](testfunction.ino) is de [code](ir-led-motor.ino) toegevoegd
+Ook [hiervan](code/testfunction.ino) is de [code](code/ir-led-motor.ino) toegevoegd.

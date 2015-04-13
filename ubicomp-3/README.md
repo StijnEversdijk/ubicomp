@@ -5,7 +5,7 @@ Om de motor draaiende te krijgen, stuur ik 5V vanuit de Arduino naar mijn motor,
 
 Dit was wat puzzel-werk. De transistor heeft drie pinnetjes en moeten goed gemonteerd worden, anders kan het een averechts effect hebben. Zodra alles in orde was op het breadboard, ging het besturen van de motor vrij soepel.
 
-De [code](motor.ino) is bijgevoegd.
+De [code](code/motor.ino) is bijgevoegd.
 
 ![](media/ir+dc.jpg)
 ![](media/motor.jpg)

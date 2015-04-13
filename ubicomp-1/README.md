@@ -7,6 +7,6 @@ De [code is in zijn geheel bijgevoegd](code/infrarood.ino).
 Om visuele feedback terug te geven, gebruik ik een Serial.println en de ingebouwde LED van de Arduino.
 
 ![](media/ir.jpg)
-![](media/ir-2.jpg)
+![](media/ir-2.JPG)
 ![](media/schema-ir.png)
 ![](media/schema-ir-2.png)
