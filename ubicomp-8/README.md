@@ -1,11 +1,14 @@
 # Iteratie 8: User testing
 
-[Video uitleg testopstelling](https://www.youtube.com/watch?v=9-RRnoWaeGo&feature=youtu.be)
+## Videos
+- [Video uitleg testopstelling](https://www.youtube.com/watch?v=9-RRnoWaeGo&feature=youtu.be)
+- [Video van Neopixel Ring](https://www.youtube.com/watch?v=1WptSYPGbE0&feature=youtu.be)
+- [Video van test](https://www.youtube.com/watch?v=xvoAZr4gEHU&feature=youtu.be)
+- [Video van test](https://www.youtube.com/watch?v=wqCr1fw8lsA&feature=youtu.be)
+
 ![Deeg](media/deeg.jpg)
 ![Deeg](media/deeg2.jpg)
-[Video van Neopixel Ring](https://www.youtube.com/watch?v=1WptSYPGbE0&feature=youtu.be)
-[Video van test](https://www.youtube.com/watch?v=xvoAZr4gEHU&feature=youtu.be)
-[Video van test](https://www.youtube.com/watch?v=wqCr1fw8lsA&feature=youtu.be)
+
 
 Deze iteratie heb ik mijn prototype voorgelegd aan Daan. Daan is 24 en heeft 3 jaar in de keuken gewerkt van een Italiaans restaurant in Amsterdam; Panini. De IR-sensor moest een paar keer afgevuurd worden, om een goed gevoel te krijgen voor de werking van het prototype. Daan had niet veel omkijken naar het prototype, het functioneerde vrij soepel. Toch had hij enkele suggesties;
 
